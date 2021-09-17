@@ -1,3 +1,4 @@
+package com.iuiuu.leetcode;
 import java.util.Arrays;
 
 public class LC1 {
